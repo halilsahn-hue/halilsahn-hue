@@ -1,77 +1,52 @@
 <h1 align="center">Hi 👋, I'm Halil Sahin</h1>
 <h3 align="center">Computer Engineer | AI Systems & Scalable Platform Architect | Germany</h3>
 
-<p align="center">
-Building production-grade digital systems, intelligent automations, and SEO-driven platforms.
-</p>
+---
+
+## 🚀 Focus
+
+- Building scalable digital platforms and intelligent automation systems  
+- Designing SEO-driven directory infrastructures  
+- Developing AI-enhanced SaaS products  
+- Architecting backend systems for performance and growth  
 
 ---
 
-### 🚀 Current Focus
+## 🧠 Core Expertise
 
-- 🔭 Founder & Builder of <a href="https://sprachcafes.com" target="_blank"><b>SprachCafes.com</b></a>  
-  Germany’s Language Exchange Directory Platform (SEO-first architecture + scalable backend)
+**Architecture & Systems Design**  
+Scalable backend systems · Modular application design · Automation-first engineering  
 
-- 🌱 Deepening expertise in  
-  **LLM Orchestration · RAG Architectures · Vector Databases · Distributed Backend Systems**
+**AI & Data**  
+LLM orchestration · Retrieval-Augmented Generation (RAG) · Vector database integration  
 
-- 👯 Open to collaborating on  
-  **AI-driven SaaS platforms & automation infrastructure**
+**Backend Development**  
+Node.js · TypeScript · Python · PostgreSQL · Redis  
 
-- 🤝 Interested in discussions around  
-  **Scalable directory systems · AI productization · Technical architecture**
+**Frontend Systems**  
+React · Next.js · Tailwind  
 
-- 💬 Ask me about  
-  **AI agents, system design, backend scalability, product strategy**
-
-- 📫 Contact  
-  **halil@getdigitalguide.com**
-
-- ⚡ Philosophy  
-  *Architecture before interface. Systems before features.*
+**Cloud & Infrastructure**  
+Docker · AWS · Linux  
 
 ---
 
-### 🌐 Connect
+## 🏗️ Current Project
 
-<p align="left">
-<a href="https://linkedin.com/in/halilsahin" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+Founder & Builder of a Germany-based language exchange directory platform  
+Designed with SEO-first architecture and scalable backend infrastructure.
 
 ---
 
-### 🧠 Core Stack
+## 💡 Engineering Principles
 
-<p align="left">
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### 🏗️ What I Build
-
-- SEO-driven directory infrastructures  
-- AI-enhanced web platforms  
-- Automated data pipelines  
-- Scalable backend systems  
-- Intelligent business workflows  
-
----
-
-### 📈 Engineering Principles
-
+- Architecture before interface  
 - Systems thinking over feature hacking  
-- Measurable performance improvements  
-- Production-first mindset  
-- Clean architecture & modular design  
+- Performance and clarity over complexity  
 - Automation wherever possible  
+
+---
+
+## 📫 Contact
+
+halil@getdigitalguide.com
