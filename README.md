@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Halil Sahin</h1>
+<h1 align="center">Hi 👋, I'm Halil</h1>
 <h3 align="center">Computer Engineer | AI Systems & Scalable Platform Architect | Germany</h3>
 
 ---
@@ -6,9 +6,8 @@
 ## 🚀 Focus
 
 - Building scalable digital platforms and intelligent automation systems  
-- Designing SEO-driven directory infrastructures  
+- Designing SEO-driven infrastructures  
 - Developing AI-enhanced SaaS products  
-- Architecting backend systems for performance and growth  
 
 ---
 
@@ -34,7 +33,7 @@ Docker · AWS · Linux
 ## 🏗️ Current Project
 
 Founder & Builder of a Germany-based language exchange directory platform  
-Designed with SEO-first architecture and scalable backend infrastructure.
+Designed with SEO-first architecture and backend infrastructure.
 
 ---
 
